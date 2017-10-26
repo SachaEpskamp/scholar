@@ -1,3 +1,7 @@
+# Fork:
+
+This is an unofficial fork by Sacha Epskamp. Please see [the original repository](https://github.com/jkeirstead/scholar) for details on this project.
+
 # scholar
 
 The scholar R package provides functions to extract citation data from [Google Scholar](http://scholar.google.com).  In addition to retrieving basic information about a single scholar, the package also allows you to compare multiple scholars and predict future h-index values.
